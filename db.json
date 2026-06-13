@@ -58,6 +58,15 @@
       "password": "456",
       "role": "user",
       "id": 5
+    },
+    {
+      "name": "Anita",
+      "email": "Anita@gmail.com",
+      "password": "123",
+      "role": "user",
+      "cart": [],
+      "orders": [],
+      "id": 6
     }
   ],
   "products": [
