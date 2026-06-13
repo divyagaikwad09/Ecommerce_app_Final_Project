@@ -1,0 +1,388 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@shop.com",
+      "password": "admin123",
+      "role": "admin",
+      "phone": "9999999999",
+      "address": "123 Admin Street, Mumbai",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Admin"
+    },
+    {
+      "id": 2,
+      "name": "Sachin",
+      "email": "sachin@gmail.com",
+      "password": "123",
+      "role": "user",
+      "phone": "9876543210",
+      "address": "456 User Lane, Pune",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=John",
+      "cart": [
+        {
+          "productId": 5,
+          "name": "Men's Slim Fit Shirt",
+          "price": 1299,
+          "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&q=80",
+          "qty": 2
+        },
+        {
+          "productId": 7,
+          "name": "Nike Air Max 270",
+          "price": 10995,
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+          "qty": 1
+        },
+        {
+          "productId": 1,
+          "name": "iPhone 15 Pro",
+          "price": 134900,
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+          "qty": 1
+        }
+      ],
+      "orders": [],
+      "wishlist": []
+    },
+    {
+      "name": "Divya",
+      "email": "divya@gmail.com",
+      "password": "123",
+      "role": "admin",
+      "id": 4
+    },
+    {
+      "name": "Vaishali",
+      "email": "vaishali@gmail.com",
+      "password": "456",
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "price": 134900,
+      "originalPrice": 149900,
+      "category": "Mobiles",
+      "brand": "Apple",
+      "stock": 9,
+      "rating": 4.8,
+      "reviews": 245,
+      "description": "The iPhone 15 Pro features a titanium design, A17 Pro chip, and a customizable Action button.",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+      "images": [
+        "https://images.unsplash.com/photo-1696426051637-928de9f6cfc5?w=400&q=80",
+        "https://images.unsplash.com/photo-1581993192008-63e896f4f744?w=400&q=80"
+      ],
+      "features": [
+        "A17 Pro chip",
+        "48MP camera",
+        "USB-C",
+        "Titanium body"
+      ],
+      "offers": [
+        "10% off on HDFC cards",
+        "No cost EMI available"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 129999,
+      "originalPrice": 139999,
+      "category": "Mobiles",
+      "brand": "Samsung",
+      "stock": 7,
+      "rating": 4.7,
+      "reviews": 189,
+      "description": "Galaxy S24 Ultra with built-in S Pen, 200MP camera, and Snapdragon 8 Gen 3.",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&q=80"
+      ],
+      "features": [
+        "S Pen included",
+        "200MP camera",
+        "Snapdragon 8 Gen 3",
+        "5000mAh battery"
+      ],
+      "offers": [
+        "5% off on SBI cards",
+        "Exchange offer up to ₹15000"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM5",
+      "price": 26990,
+      "originalPrice": 34990,
+      "category": "Electronics",
+      "brand": "Sony",
+      "stock": 13,
+      "rating": 4.9,
+      "reviews": 567,
+      "description": "Industry-leading noise canceling headphones with 30hr battery life.",
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400&q=80"
+      ],
+      "features": [
+        "30hr battery",
+        "LDAC codec",
+        "Multipoint connection",
+        "Speak-to-chat"
+      ],
+      "offers": [
+        "Bank discount ₹2000 on Axis cards"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "MacBook Air M3",
+      "price": 114900,
+      "originalPrice": 119900,
+      "category": "Electronics",
+      "brand": "Apple",
+      "stock": 5,
+      "rating": 4.9,
+      "reviews": 312,
+      "description": "Supercharged by M3 chip. Up to 18 hours battery life. Fanless design.",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80"
+      ],
+      "features": [
+        "Apple M3 chip",
+        "18hr battery",
+        "Liquid Retina display",
+        "MagSafe charging"
+      ],
+      "offers": [
+        "No cost EMI up to 12 months"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Men's Slim Fit Shirt",
+      "price": 1299,
+      "originalPrice": 2499,
+      "category": "Fashion",
+      "brand": "Allen Solly",
+      "stock": 48,
+      "rating": 4.3,
+      "reviews": 89,
+      "description": "Premium cotton slim fit formal shirt. Perfect for office and casual wear.",
+      "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&q=80"
+      ],
+      "features": [
+        "100% Cotton",
+        "Machine washable",
+        "Slim fit",
+        "Wrinkle resistant"
+      ],
+      "offers": [
+        "Buy 2 get 10% off",
+        "Free shipping above ₹999"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Women's Floral Kurti",
+      "price": 899,
+      "originalPrice": 1499,
+      "category": "Fashion",
+      "brand": "W",
+      "stock": 30,
+      "rating": 4.5,
+      "reviews": 134,
+      "description": "Elegant floral print kurti in breathable fabric. Ideal for festive and casual occasions.",
+      "image": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?w=500",
+      "images": [
+        "https://images.unsplash.com/photo-1594938298603-c8148c4b4c41?w=400&q=80"
+      ],
+      "features": [
+        "Rayon fabric",
+        "Floral print",
+        "A-line cut",
+        "Comfortable fit"
+      ],
+      "offers": [
+        "Flat 40% off today only"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Nike Air Max 270",
+      "price": 10995,
+      "originalPrice": 13995,
+      "category": "Fashion",
+      "brand": "Nike",
+      "stock": 19,
+      "rating": 4.6,
+      "reviews": 203,
+      "description": "Max comfort with visible Air unit. Great for casual wear and light workouts.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80"
+      ],
+      "features": [
+        "Air Max unit",
+        "Engineered mesh upper",
+        "Rubber outsole",
+        "Available sizes 6-12"
+      ],
+      "offers": [
+        "10% off on first order"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Samsung 55\" 4K Smart TV",
+      "price": 54990,
+      "originalPrice": 69990,
+      "category": "Electronics",
+      "brand": "Samsung",
+      "stock": 5,
+      "rating": 4.4,
+      "reviews": 421,
+      "description": "Crystal UHD 4K display with Tizen OS, built-in Alexa and Google Assistant.",
+      "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=400&q=80"
+      ],
+      "features": [
+        "Crystal UHD 4K",
+        "Tizen Smart OS",
+        "Built-in Alexa",
+        "3 HDMI ports"
+      ],
+      "offers": [
+        "EMI from ₹1,916/month",
+        "Free wall mount installation"
+      ]
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": 2,
+      "userId": 2,
+      "userName": "Sachin",
+      "userEmail": "sachin@gmail.com",
+      "phone": "9876543210",
+      "items": [
+        {
+          "productId": 1,
+          "name": "iPhone 15 Pro",
+          "price": 134900,
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+          "qty": 1
+        },
+        {
+          "productId": 2,
+          "name": "Samsung Galaxy S24 Ultra",
+          "price": 129999,
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&q=80",
+          "qty": 1
+        },
+        {
+          "productId": 3,
+          "name": "Sony WH-1000XM5",
+          "price": 26990,
+          "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400&q=80",
+          "qty": 1
+        },
+        {
+          "productId": 4,
+          "name": "MacBook Air M3",
+          "price": 114900,
+          "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80",
+          "qty": 1
+        }
+      ],
+      "address": "karvenager",
+      "city": "Pune",
+      "state": "MH",
+      "pincode": "12345",
+      "payment": "COD",
+      "total": 406789,
+      "status": "Delivered",
+      "date": "2026-06-10T15:29:27.629Z"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "userName": "Sachin",
+      "userEmail": "sachin@gmail.com",
+      "phone": "9876543210",
+      "items": [
+        {
+          "productId": 1,
+          "name": "iPhone 15 Pro",
+          "price": 134900,
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+          "qty": 1
+        },
+        {
+          "productId": 3,
+          "name": "Sony WH-1000XM5",
+          "price": 26990,
+          "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400&q=80",
+          "qty": 1
+        }
+      ],
+      "address": "Kothrud",
+      "city": "PUNE",
+      "state": "MH",
+      "pincode": "1234",
+      "payment": "COD",
+      "total": 161890,
+      "status": "Delivered",
+      "date": "2026-06-10T15:44:47.663Z"
+    },
+    {
+      "userId": 2,
+      "userName": "Sachin",
+      "userEmail": "sachin@gmail.com",
+      "phone": "1234567890",
+      "items": [
+        {
+          "productId": 5,
+          "name": "Men's Slim Fit Shirt",
+          "price": 1299,
+          "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&q=80",
+          "qty": 2
+        },
+        {
+          "productId": 7,
+          "name": "Nike Air Max 270",
+          "price": 10995,
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+          "qty": 1
+        },
+        {
+          "productId": 1,
+          "name": "iPhone 15 Pro",
+          "price": 134900,
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+          "qty": 1
+        }
+      ],
+      "total": 148493,
+      "name": "Sachin",
+      "address": "XYz,USA 123456",
+      "city": "USA",
+      "state": "USA",
+      "pincode": "78912",
+      "payment": "COD",
+      "status": "Placed",
+      "date": "2026-06-12T13:34:28.089Z",
+      "id": 4
+    }
+  ]
+}
