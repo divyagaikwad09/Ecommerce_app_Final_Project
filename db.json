@@ -24,7 +24,7 @@
           "productId": 5,
           "name": "Men's Slim Fit Shirt",
           "price": 1299,
-          "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&q=80",
+          "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=400&q=80",
           "qty": 2
         },
         {
@@ -81,10 +81,11 @@
       "rating": 4.8,
       "reviews": 245,
       "description": "The iPhone 15 Pro features a titanium design, A17 Pro chip, and a customizable Action button.",
-      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+      "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600&q=80",
       "images": [
+        "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&q=80",
         "https://images.unsplash.com/photo-1696426051637-928de9f6cfc5?w=400&q=80",
-        "https://images.unsplash.com/photo-1581993192008-63e896f4f744?w=400&q=80"
+        "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=400&q=80"
       ],
       "features": [
         "A17 Pro chip",
@@ -110,7 +111,9 @@
       "description": "Galaxy S24 Ultra with built-in S Pen, 200MP camera, and Snapdragon 8 Gen 3.",
       "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&q=80",
       "images": [
-        "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&q=80"
+        "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&q=80",
+        "https://images.unsplash.com/photo-1587033411391-5d9e51cce126?w=400&q=80",
+        "https://images.unsplash.com/photo-1646900929849-e3b4eb8de0a4?w=400&q=80"
       ],
       "features": [
         "S Pen included",
@@ -134,9 +137,11 @@
       "rating": 4.9,
       "reviews": 567,
       "description": "Industry-leading noise canceling headphones with 30hr battery life.",
-      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400&q=80",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
       "images": [
-        "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400&q=80"
+        "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400&q=80",
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&q=80",
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&q=80"
       ],
       "features": [
         "30hr battery",
@@ -159,9 +164,11 @@
       "rating": 4.9,
       "reviews": 312,
       "description": "Supercharged by M3 chip. Up to 18 hours battery life. Fanless design.",
-      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&q=80",
       "images": [
-        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80"
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&q=80",
+        "https://images.unsplash.com/photo-1611186871525-9a67eef20c04?w=400&q=80",
+        "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&q=80"
       ],
       "features": [
         "Apple M3 chip",
@@ -184,9 +191,11 @@
       "rating": 4.3,
       "reviews": 89,
       "description": "Premium cotton slim fit formal shirt. Perfect for office and casual wear.",
-      "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&q=80",
+      "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=400&q=80",
       "images": [
-        "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&q=80"
+        "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=400&q=80",
+        "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=400&q=80",
+        "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=400&q=80"
       ],
       "features": [
         "100% Cotton",
@@ -210,9 +219,11 @@
       "rating": 4.5,
       "reviews": 134,
       "description": "Elegant floral print kurti in breathable fabric. Ideal for festive and casual occasions.",
-      "image": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?w=500",
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=400&q=80",
       "images": [
-        "https://images.unsplash.com/photo-1594938298603-c8148c4b4c41?w=400&q=80"
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=400&q=80",
+        "https://images.unsplash.com/photo-1594938298603-c8148c4b4c41?w=400&q=80",
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&q=80"
       ],
       "features": [
         "Rayon fabric",
@@ -235,9 +246,11 @@
       "rating": 4.6,
       "reviews": 203,
       "description": "Max comfort with visible Air unit. Great for casual wear and light workouts.",
-      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+      "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?w=600&q=80",
       "images": [
-        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80"
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+        "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=400&q=80",
+        "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=400&q=80"
       ],
       "features": [
         "Air Max unit",
@@ -260,9 +273,11 @@
       "rating": 4.4,
       "reviews": 421,
       "description": "Crystal UHD 4K display with Tizen OS, built-in Alexa and Google Assistant.",
-      "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=400&q=80",
+      "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?w=600&q=80",
       "images": [
-        "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=400&q=80"
+        "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=400&q=80",
+        "https://images.unsplash.com/photo-1461151304267-38535e780c79?w=400&q=80",
+        "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=400&q=80"
       ],
       "features": [
         "Crystal UHD 4K",
@@ -273,6 +288,338 @@
       "offers": [
         "EMI from ₹1,916/month",
         "Free wall mount installation"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "OnePlus 12 5G",
+      "price": 64999,
+      "originalPrice": 69999,
+      "category": "Mobiles",
+      "brand": "OnePlus",
+      "stock": 15,
+      "rating": 4.6,
+      "reviews": 178,
+      "description": "Snapdragon 8 Gen 3 powered flagship with Hasselblad camera and 100W SUPERVOOC charging.",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&q=80",
+        "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=400&q=80",
+        "https://images.unsplash.com/photo-1530319067432-f2a729c03db5?w=400&q=80"
+      ],
+      "features": [
+        "Snapdragon 8 Gen 3",
+        "Hasselblad camera system",
+        "100W SUPERVOOC",
+        "5400mAh battery"
+      ],
+      "offers": [
+        "Exchange up to ₹10000",
+        "No cost EMI on ICICI cards"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "boAt Airdopes 141",
+      "price": 1299,
+      "originalPrice": 2990,
+      "category": "Electronics",
+      "brand": "boAt",
+      "stock": 60,
+      "rating": 4.1,
+      "reviews": 1024,
+      "description": "True wireless earbuds with 42hr total playback, IPX4 water resistance and instant voice assistant.",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&q=80",
+        "https://images.unsplash.com/photo-1606220838315-056192d5e927?w=400&q=80",
+        "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400&q=80"
+      ],
+      "features": [
+        "42hr total playback",
+        "IPX4 water resistance",
+        "Instant voice assistant",
+        "Bluetooth v5.3"
+      ],
+      "offers": [
+        "Flat ₹200 off on prepaid orders"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Levi's 511 Slim Fit Jeans",
+      "price": 2999,
+      "originalPrice": 4499,
+      "category": "Fashion",
+      "brand": "Levi's",
+      "stock": 35,
+      "rating": 4.4,
+      "reviews": 312,
+      "description": "Classic slim fit jeans in stretch denim. Sits below the waist with a slim leg from hip to ankle.",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&q=80",
+        "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&q=80",
+        "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=400&q=80"
+      ],
+      "features": [
+        "Stretch denim",
+        "Slim leg cut",
+        "5-pocket styling",
+        "Machine washable"
+      ],
+      "offers": [
+        "Buy 2 get 15% off",
+        "Free shipping above ₹1499"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Instant Pot Duo 7-in-1",
+      "price": 8999,
+      "originalPrice": 11999,
+      "category": "Home & Kitchen",
+      "brand": "Instant Pot",
+      "stock": 22,
+      "rating": 4.7,
+      "reviews": 892,
+      "description": "7-in-1 electric pressure cooker — pressure cooker, slow cooker, rice cooker, steamer, sauté, yogurt maker and warmer.",
+      "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1585515320310-259814833e62?w=400&q=80",
+        "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=400&q=80",
+        "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=400&q=80"
+      ],
+      "features": [
+        "7-in-1 functionality",
+        "6 litre capacity",
+        "13 smart programs",
+        "Stainless steel inner pot"
+      ],
+      "offers": [
+        "Free recipe book worth ₹499",
+        "1 year warranty"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Dyson V12 Detect Slim",
+      "price": 59900,
+      "originalPrice": 64900,
+      "category": "Home & Kitchen",
+      "brand": "Dyson",
+      "stock": 8,
+      "rating": 4.8,
+      "reviews": 214,
+      "description": "Cord-free vacuum cleaner with laser dust detection and LCD screen displaying real-time suction data.",
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+        "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=400&q=80",
+        "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=400&q=80"
+      ],
+      "features": [
+        "Laser dust detection",
+        "LCD screen",
+        "60 min run time",
+        "HEPA filtration"
+      ],
+      "offers": [
+        "Free cleaning kit worth ₹1999"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Wildcraft Trailblazer Backpack",
+      "price": 2499,
+      "originalPrice": 3999,
+      "category": "Sports & Outdoors",
+      "brand": "Wildcraft",
+      "stock": 40,
+      "rating": 4.3,
+      "reviews": 156,
+      "description": "45L trekking backpack with rain cover, multiple compartments and ergonomic back support.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&q=80",
+        "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=400&q=80",
+        "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?w=400&q=80"
+      ],
+      "features": [
+        "45L capacity",
+        "Rain cover included",
+        "Ergonomic back support",
+        "Chest and hip straps"
+      ],
+      "offers": [
+        "10% off on orders above ₹2000"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Fossil Gen 6 Smartwatch",
+      "price": 22995,
+      "originalPrice": 29995,
+      "category": "Electronics",
+      "brand": "Fossil",
+      "stock": 11,
+      "rating": 4.2,
+      "reviews": 98,
+      "description": "Wear OS smartwatch with Snapdragon Wear 4100+ chip, health tracking and 24hr battery.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&q=80",
+        "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=400&q=80",
+        "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=400&q=80"
+      ],
+      "features": [
+        "Wear OS",
+        "Snapdragon Wear 4100+",
+        "Heart rate & SpO2 monitor",
+        "GPS + NFC payments"
+      ],
+      "offers": [
+        "Extra ₹2000 off on exchange",
+        "No cost EMI available"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Adidas Ultraboost 22",
+      "price": 14999,
+      "originalPrice": 17999,
+      "category": "Fashion",
+      "brand": "Adidas",
+      "stock": 25,
+      "rating": 4.7,
+      "reviews": 267,
+      "description": "High-performance running shoe with BOOST midsole for incredible energy return and Primeknit upper.",
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1608231387042-66d1773d3028?w=400&q=80",
+        "https://images.unsplash.com/photo-1539185441755-769473a23570?w=400&q=80",
+        "https://images.unsplash.com/photo-1556906781-9a412961a28c?w=400&q=80"
+      ],
+      "features": [
+        "BOOST midsole",
+        "Primeknit upper",
+        "Continental rubber outsole",
+        "Available sizes 6-12"
+      ],
+      "offers": [
+        "15% off on first app order",
+        "Free delivery"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Canon EOS R50 Mirrorless Camera",
+      "price": 74990,
+      "originalPrice": 82990,
+      "category": "Electronics",
+      "brand": "Canon",
+      "stock": 6,
+      "rating": 4.6,
+      "reviews": 73,
+      "description": "24.2MP APS-C mirrorless camera with DIGIC X processor, 4K video and Dual Pixel CMOS AF.",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=400&q=80",
+        "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?w=400&q=80",
+        "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&q=80"
+      ],
+      "features": [
+        "24.2MP APS-C sensor",
+        "4K video recording",
+        "Dual Pixel CMOS AF",
+        "Wi-Fi & Bluetooth"
+      ],
+      "offers": [
+        "Free 16GB SD card",
+        "Cashback ₹3000 on HDFC cards"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Prestige Iris 750W Mixer Grinder",
+      "price": 2799,
+      "originalPrice": 3999,
+      "category": "Home & Kitchen",
+      "brand": "Prestige",
+      "stock": 33,
+      "rating": 4.4,
+      "reviews": 445,
+      "description": "750W mixer grinder with 3 stainless steel jars, anti-rust blades and overload protection.",
+      "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=400&q=80",
+        "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=400&q=80",
+        "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=400&q=80"
+      ],
+      "features": [
+        "750W motor",
+        "3 stainless steel jars",
+        "Anti-rust blades",
+        "Overload protection"
+      ],
+      "offers": [
+        "5 year motor warranty",
+        "Free shipping"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Yoga Mat Premium Anti-Slip",
+      "price": 999,
+      "originalPrice": 1799,
+      "category": "Sports & Outdoors",
+      "brand": "Boldfit",
+      "stock": 75,
+      "rating": 4.5,
+      "reviews": 632,
+      "description": "6mm thick TPE eco-friendly yoga mat with alignment lines, anti-slip texture and carry strap.",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?w=400&q=80",
+        "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&q=80",
+        "https://images.unsplash.com/photo-1520334363840-44c5b1e17695?w=400&q=80"
+      ],
+      "features": [
+        "6mm thickness",
+        "TPE eco-friendly",
+        "Alignment lines",
+        "Carry strap included"
+      ],
+      "offers": [
+        "Buy 2 get 20% off"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Kindle Paperwhite (16GB)",
+      "price": 14999,
+      "originalPrice": 16999,
+      "category": "Electronics",
+      "brand": "Amazon",
+      "stock": 18,
+      "rating": 4.8,
+      "reviews": 2341,
+      "description": "The thinnest, lightest Kindle Paperwhite with a 6.8\" glare-free display, adjustable warm light and 10 weeks battery.",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&q=80",
+        "https://images.unsplash.com/photo-1589998059171-988d887df646?w=400&q=80",
+        "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=400&q=80"
+      ],
+      "features": [
+        "6.8\" glare-free display",
+        "Adjustable warm light",
+        "10 weeks battery",
+        "IPX8 waterproof"
+      ],
+      "offers": [
+        "3 months Kindle Unlimited free",
+        "No cost EMI available"
       ]
     }
   ],
@@ -289,7 +636,7 @@
           "productId": 1,
           "name": "iPhone 15 Pro",
           "price": 134900,
-          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&q=80",
           "qty": 1
         },
         {
@@ -334,7 +681,7 @@
           "productId": 1,
           "name": "iPhone 15 Pro",
           "price": 134900,
-          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&q=80",
           "qty": 1
         },
         {
@@ -355,6 +702,7 @@
       "date": "2026-06-10T15:44:47.663Z"
     },
     {
+      "id": 4,
       "userId": 2,
       "userName": "Sachin",
       "userEmail": "sachin@gmail.com",
@@ -364,7 +712,7 @@
           "productId": 5,
           "name": "Men's Slim Fit Shirt",
           "price": 1299,
-          "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=400&q=80",
+          "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=400&q=80",
           "qty": 2
         },
         {
@@ -378,7 +726,7 @@
           "productId": 1,
           "name": "iPhone 15 Pro",
           "price": 134900,
-          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+          "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&q=80",
           "qty": 1
         }
       ],
@@ -390,8 +738,7 @@
       "pincode": "78912",
       "payment": "COD",
       "status": "Placed",
-      "date": "2026-06-12T13:34:28.089Z",
-      "id": 4
+      "date": "2026-06-12T13:34:28.089Z"
     }
   ]
 }
